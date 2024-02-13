@@ -4,7 +4,7 @@ Calculates definite integrals using the Monte Carlo method.
 
 `python integrate.py "x**2 - 1" -2 2`
 
-https://github.com/Ahmed42/MCIntegrator/raw/master/vids/sample.webm
+https://github.com/Ahmed42/MCIntegrator/raw/master/vids/sample.mp4
 
 ### TODOs
 1. Parse/compile exprs to expr objects.
